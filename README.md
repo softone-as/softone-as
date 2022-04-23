@@ -6,13 +6,14 @@ A final student of Software Engineer and enjoys JavaScript as the primary langua
 
 I'm currently working on my final project as a Software Engineer student and collaborating with one of the big tech companies in Jakarta, I'm working as a full-stack web developer using Java Spring Boot for back-end services and React JS for front-end views
 
-🔭 I'm currently studying at the Bandung State Polytechnic 
 
-🌱 I’m currently learning about fullstack web development apps 
+*🔭 I'm currently studying at the Bandung State Polytechnic 
 
-📫 How to reach me: [shofwanas12@gmail.com](mailto:shofwanas12@gmail.com) 
+*🌱 I’m currently learning about fullstack web development apps 
 
-⚡ Fun fact: Exiting about mythological stories, likes to exercise and read. And realize that life is not forever.
+*📫 How to reach me: [shofwanas12@gmail.com](mailto:shofwanas12@gmail.com) 
+
+*⚡ Fun fact: Exiting about mythological stories, likes to exercise and read. And realize that life is not forever.
 
 <!--
 **softone-as/softone-as** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
