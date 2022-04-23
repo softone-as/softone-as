@@ -1,5 +1,5 @@
 ### Hi there 👋, 
-### I'm Shofwan Ahmad Syihab 🔱:indonesia:
+### I'm Shofwan Ahmad Syihab 🔱
 ![](https://komarev.com/ghpvc/?username=softone-as)
 
 A final student of Software Engineer and enjoys JavaScript as the primary language for creating a project.
@@ -10,8 +10,6 @@ I'm currently working on my final project as a Software Engineer student and col
 * 🔭 I'm currently studying at the Bandung State Polytechnic 
 
 * 🌱 I’m currently learning about fullstack web development apps 
-
-* 📫 How to reach me: [shofwanas12@gmail.com](mailto:shofwanas12@gmail.com) 
 
 * ⚡ Fun fact: Exiting about mythological stories, likes to exercise and read. And realize that life is not forever.
 
