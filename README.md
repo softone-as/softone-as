@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=softone-as)
 
 
-* 💼 I'm currently working as Frontend Engineer at DOT Indonesia
+* 💼 I'm currently working as Frontend Engineer at DOT Indonesia and as freelancer with Astacode
 
 * 📄 I’m also open for freelance project
 
