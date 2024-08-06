@@ -7,7 +7,6 @@
 ### 📫 Reach Me on
 * [shofwanas12@gmail.com](mailto:shofwanas12@gmail.com) 
 * [LinkedIn](https://www.linkedin.com/in/shofwanasy/)
-* [Instagram](https://www.instagram.com/shofwanasy/) 
 
 <!--
 **softone-as/softone-as** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
